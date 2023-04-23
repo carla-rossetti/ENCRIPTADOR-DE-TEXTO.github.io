@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Encriptador</title>
+        <!--css-->
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <!--css aos-->
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+        <!--google fonts-->
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@700&display=swap');
+        </style>
+    </head>
+    <body>
+        <!--encabezado-->
+        <header>
+            <img class="logo" src="./images/logo.png" alt="logo">
+            <h1 data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="3000">ENCRIPTADOR</h1>
+            <div class="redes">
+                <a href="https://github.com/carla-rossetti" target="_blank"><img class="red" src="./images/redes1.png" alt="red"></a>
+                <a href="https://www.linkedin.com/in/carla-rossetti/" target="_blank"><img class="red" src="./images/redes2.png" alt="red"></a>
+            </div>
+        </header>hola
+
+        <!--principal-->
+        <main>
+            <!--primera sección-->
+            <section class="izq" data-aos="fade-right" data-aos-duration="3000">
+                <textarea class="area" placeholder="Ingrese el texto aquí"></textarea>
+                <input class="encriptar" type="button" value="ENCRIPTAR">
+                <input class="desencriptar" type="button" value="DESENCRIPTAR">
+            </section>
+            <!--segunda sección-->
+            <section class="der" data-aos="fade-left" data-aos-duration="3000">
+                <img class="munheca" src="./images/muñeca.png" alt="muñeca">
+                <h3 class="subtitulo">Ningún mensaje fue encontrado</h3>
+                <p class="parrafo">Ingresa el texto que desees encriptar o desencriptar.</p>
+                <textarea class="mensaje"></textarea>
+                <input class="copiar" type="button" value="COPIAR">
+                <input class="escuchar" type="button" value="ESCUCHAR">
+            </section>
+        </main>
+
+        <!--pie de página-->
+        <footer>
+            <p>Web Developer : <span>carlarominasrossetti@gmail.com</span></p>
+        </footer>
+
+        <!--javascript-->
+        <script src="index.js"></script>
+        <!--javascript aos-->
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        <script>
+            AOS.init();
+        </script>
+    </body>
+</html>
