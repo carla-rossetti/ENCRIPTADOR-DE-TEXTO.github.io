@@ -214,6 +214,7 @@ footer p span {
 /*tablet*/
 @media screen and (max-width: 768px) and (max-height: 1174px) {
   header {
+    width: 100%;
     margin-bottom: 5%;
   }
   .logo {
@@ -296,6 +297,7 @@ footer p span {
 /*móvil*/
 @media screen and (max-width: 375px) and (max-height: 933px) {
   header {
+    width: 100%;
     margin-bottom: 8%;
   }
   .logo {
