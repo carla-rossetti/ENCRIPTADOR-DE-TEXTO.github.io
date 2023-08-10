@@ -17,14 +17,14 @@
    <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
 </p>
 
-<h2>Conversor X - Inicio de Sesión:</h2>
+<h2>Encriptador - Inicio de Sesión:</h2>
 
 <p>Para ingresar al sistema el Usuario es <b>admin</b> y la Contraseña es <b>1234</b></p>
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l1.jpg">
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l2.jpg">
 
-<h2>Conversor X - Apartados:</h2>
+<h2>Encriptador - Apartados:</h2>
 
 <p>1 Conversión de divisas, para el que se utilizó una biblioteca de código abierto de Google conocida como GSON, ubicada en el repositorio central Maven de Sonatype. Para la comunicación mediante API se utilizó el servicio host gratuito Exchange rates.</p>
 
@@ -38,7 +38,7 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/n1.jpg">
 
-<h2>Conversor X - Instalación:</h2>
+<h2>Encriptador - Instalación:</h2>
 
 <p>Para la instalación se creó un archivo .jar que se puede ejecutar en múltiples plataformas con la versión 17.0.7 de la máquina virtual de Java (JVM). También se creó un archivo .exe para su ejecución en la plataforma de Windows.</p>
 
@@ -50,13 +50,13 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/i1.jpg">
 
-<h2>Conversor X - Video:</h2>
+<h2>Encriptador - Video:</h2>
 
 <p>Para ver el video clickea sobre la foto:</p>
 
-[![Video de Demostración](https://img.youtube.com/vi/cyiH863Dr3c/0.jpg)](https://www.youtube.com/watch?v=cyiH863Dr3c)
+[![Video de Demostración](https://img.youtube.com/vi/djTCbZEh9hc/0.jpg)](https://www.youtube.com/watch?v=djTCbZEh9hc)
 
-<h2>Conversor X - Créditos:</h2>
+<h2>Encriptador - Créditos:</h2>
 
 <p>Un agradecimiento enorme a Oracle por crear un programa gratuito de enseñanza donde se fomenta el crecimiento personal y profesional. Un mismo agradecimiento enorme a todos los que son parte de Alura Latam por impartir su conocimiento a toda la comunidad de futuros desarrolladores y ser los mediadores para que los sueños se vuelvan realidad. Finalmente un agradecimiento a todos mis compañeros del programa One - Oracle Next Education por compartir sus habilidades con la comunidad.</p>
 
