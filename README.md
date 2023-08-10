@@ -23,6 +23,12 @@
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/f1.jpg">
 
+<h2>Encriptador - Funcionamiento:</h2>
+
+<p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker que convierte texto a voz.</p>
+
+<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/e2.jpg">
+
 <h2>Encriptador - Responsive:</h2>
 
 <p>Para la responsividad de la página web encriptador se utilizaron las medidas del modelo de figma aplicadas mediante el uso de media queries.</p>
@@ -38,12 +44,6 @@
 <h4>3 Celular: medida del modelo de figma 375 x 933.</h4>
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/c1.jpg">
-
-<h2>Encriptador - Funcionamiento:</h2>
-
-<p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker que convierte texto a voz.</p>
-
-<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/e2.jpg">
 
 <h2>Encriptador - Video:</h2>
 
