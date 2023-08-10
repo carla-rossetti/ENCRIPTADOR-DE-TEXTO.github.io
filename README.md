@@ -62,7 +62,7 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/c1.jpg">
 
-<h2>Conversor X - Licencia:</h2>
+<h2>Encriptador - Licencia:</h2>
 
 <p>© copyright 2023 Carla Romina Soledad Rossetti & Alura Latam.<br>
    Todos los derechos reservados.<br>
@@ -76,7 +76,7 @@
    Todas las consultas y solicitudes de uso deben dirigirse al titular  del copyright a través del correo electrónico: carlarominasrossetti@gmail.com
 </p>
 
-<h2>Conversor X - Contacto:</h2>
+<h2>Encriptador - Contacto:</h2>
 <p align="left">
    <p>Para ingresar a mis redes sociales clickea los botones:</p>
    <a href="https://www.linkedin.com/in/carla-rossetti/">
@@ -92,6 +92,6 @@
    </a>
 </p>
 
-<h2>Conversor X - Logro obtenido:</h2>
+<h2>Encriptador - Logro obtenido:</h2>
 
-<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/j1.png">
+<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/js1.png">
