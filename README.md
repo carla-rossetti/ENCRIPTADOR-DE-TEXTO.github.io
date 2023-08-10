@@ -39,7 +39,7 @@
 
 <p></p>
 
-<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/t1.jpg">
+<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/c1.jpg">
 
 <h2>Encriptador - Instalación:</h2>
 
