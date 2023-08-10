@@ -23,9 +23,9 @@
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/f1.jpg">
 
-<h2>Encriptador - Escritorio:</h2>
+<h2>Encriptador - Responsive:</h2>
 
-<p></p>
+<p>Para la responsividad de la página se usaron media queries</p>
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/e1.jpg">
 
