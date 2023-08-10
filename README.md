@@ -72,18 +72,19 @@
 </p>
 
 <h2>Encriptador - Contacto:</h2>
+
 <p align="left">
    <p>Para ingresar a mis redes sociales clickea los botones:</p>
    <a href="https://www.linkedin.com/in/carla-rossetti/">
-      <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/in.png">
+      <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/in.png">
    </a>
 
    <a href="https://www.instagram.com/carlarossettiprogrammer/">
-      <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/ig.png">
+      <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/ig.png">
    </a>
 
    <a href="https://www.youtube.com/@carlarossetti">
-      <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/yt.png">
+      <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/yt.png">
    </a>
 </p>
 
