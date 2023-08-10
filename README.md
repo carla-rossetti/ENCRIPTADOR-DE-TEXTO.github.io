@@ -43,7 +43,7 @@
 
 <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker que convierte texto a voz.</p>
 
-<img src="">
+<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/e2.jpg">
 
 <h2>Encriptador - Video:</h2>
 
