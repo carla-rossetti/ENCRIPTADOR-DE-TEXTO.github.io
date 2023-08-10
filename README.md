@@ -17,12 +17,11 @@
    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
 </p>
 
-<h2>Encriptador - Inicio de Sesión:</h2>
+<h2>Encriptador - Figma:</h2>
 
-<p>Para ingresar al sistema el Usuario es <b>admin</b> y la Contraseña es <b>1234</b></p>
+<p>Para la realización del encriptador se me propuso seguir un modelo de figma pero también libertad para explotar mi creatividad</p>
 
-<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l1.jpg">
-<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l2.jpg">
+<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/f1.jpg">
 
 <h2>Encriptador - Apartados:</h2>
 
