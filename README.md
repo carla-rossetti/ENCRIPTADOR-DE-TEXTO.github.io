@@ -23,19 +23,23 @@
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/f1.jpg">
 
-<h2>Encriptador - Apartados:</h2>
+<h2>Encriptador - Escritorio:</h2>
 
-<p>1 Conversión de divisas, para el que se utilizó una biblioteca de código abierto de Google conocida como GSON, ubicada en el repositorio central Maven de Sonatype. Para la comunicación mediante API se utilizó el servicio host gratuito Exchange rates.</p>
+<p></p>
 
-<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/d1.jpg">
+<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/e1.jpg">
 
-<p>2 Conversión de temperatura, para el que se utilizó el sistema internacional de unidades de medida de temperatura.</p>
+<h2>Encriptador - Tablet:</h2>
 
-<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/t1.jpg">
+<p></p>
 
-<p>3 Conversión de numeración, para el que se utilizó el sistema internacional de numeración decimal, binario, hexadecimal y octal.</p>
+<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/t1.jpg">
 
-<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/n1.jpg">
+<h2>Encriptador - Celular:</h2>
+
+<p></p>
+
+<img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/t1.jpg">
 
 <h2>Encriptador - Instalación:</h2>
 
