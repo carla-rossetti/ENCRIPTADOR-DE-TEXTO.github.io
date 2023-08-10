@@ -41,7 +41,7 @@
 
 <h2>Encriptador - Funcionamiento:</h2>
 
-<p></p>
+<p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker que convierte texto a voz.</p>
 
 <img src="">
 
