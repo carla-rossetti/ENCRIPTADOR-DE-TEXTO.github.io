@@ -27,15 +27,15 @@
 
 <p>Para la responsividad de la página web encriptador se utilizaron las medidas del modelo de figma aplicadas mediante el uso de media queries.</p>
 
-<h4>1 Escritorio: medida del modelo de figma 1440 x 1024</h4>
+<h4>1 Escritorio: medida del modelo de figma 1440 x 1024.</h4>
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/e1.jpg">
 
-<h4>2 Tablet: medida del modelo de figma 768 x 1174</h4>
+<h4>2 Tablet: medida del modelo de figma 768 x 1174.</h4>
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/t1.jpg">
 
-<h4>3 Celular: medida del modelo de figma 375 x 933</h4>
+<h4>3 Celular: medida del modelo de figma 375 x 933.</h4>
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/c1.jpg">
 
