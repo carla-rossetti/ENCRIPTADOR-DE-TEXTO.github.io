@@ -39,17 +39,11 @@
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/c1.jpg">
 
-<h2>Encriptador - Instalación:</h2>
+<h2>Encriptador - Funcionamiento:</h2>
 
-<p>Para la instalación se creó un archivo .jar que se puede ejecutar en múltiples plataformas con la versión 17.0.7 de la máquina virtual de Java (JVM). También se creó un archivo .exe para su ejecución en la plataforma de Windows.</p>
+<p></p>
 
-<p>
-   <img src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white">
-   <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white">
-   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
-</p>
-
-<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/i1.jpg">
+<img src="">
 
 <h2>Encriptador - Video:</h2>
 
