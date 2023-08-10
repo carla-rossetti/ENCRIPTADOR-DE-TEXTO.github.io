@@ -19,7 +19,7 @@
 
 <h2>Encriptador - Figma:</h2>
 
-<p>Para la realización del encriptador se me propuso seguir un modelo de figma pero también se me dió libertad para explotar mi creatividad</p>
+<p>Para la realización del encriptador se me propuso seguir un modelo de figma, pero también se me dió libertad para explotar mi creatividad.</p>
 
 <img src="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io/blob/master/images/f1.jpg">
 
